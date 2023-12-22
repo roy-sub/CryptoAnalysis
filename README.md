@@ -1,5 +1,7 @@
 # CryptoAnalysis
 
+![banner](https://github.com/roy-sub/CryptoAnalysis/blob/main/Images/banner.jpg)
+
 ## Overview
 
 This project focuses on analyzing and predicting the prices of various cryptocurrencies using exploratory data analysis (EDA), transfer learning with time series models, and creating an interactive visualization dashboard.
