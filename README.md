@@ -44,7 +44,7 @@ Implemented transfer learning using three different models:
 
 - Employed LSTM neural networks for deep learning-based price prediction.
 
-### 3. Tableau Dashboard
+### 3. Tableau Dashboard [Click Here](https://public.tableau.com/views/TrackingCryptocurrency/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Scraped the data from [CoinMarketCap](https://coinmarketcap.com/) for the top 5 cryptocurrency
 
 - Pre-processed the data to create a single [Data Source](https://github.com/roy-sub/CryptoAnalysis/blob/main/Tableau%20Visualization/Cryptocurrency%20Tableau%20Visualizationn%20Data%20Source.xlsx) for the Tableau Dashboard
